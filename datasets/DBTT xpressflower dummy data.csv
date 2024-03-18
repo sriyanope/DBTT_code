@@ -1,0 +1,113 @@
+Customer ID,Gender,Age,Location,Referral Source,Item bought,Purpose
+1,Female,20,Singapore,Google,Gift Set 2,Graduation
+2,Male,35,Singapore,Google,Roses,Anniversary
+3,Female,27,Singapore,Social Media,Violets,Birthday
+4,Male,45,Singapore,Social Network,Carnation,Opening Ceremony
+5,Female,52,Singapore,Google,Gift Set 1,Funeral
+6,Female,19,Singapore,Google,Tulip,Birth
+7,Male,30,Singapore,Google,Hydrangea,Birthday
+8,Female,40,Singapore,Social Network,Lillies,Anniversary
+9,Female,24,US,Google,Daffodil,Graduation
+10,Male,55,Singapore,Social Media,Peonies,No reason
+11,Female,31,Singapore,Google,Gift Set 3,Anniversary
+12,Male,48,Russia,Google,Baby Breaths,Opening Ceremony
+13,Female,35,Singapore,Social Network,Iris,Graduation
+14,Female,22,Mexico,Google,Roses,No reason
+15,Male,50,Philippines,Google,Hydrangea,Anniversary
+16,Female,18,Singapore,Social Media,Tulip,Birthday
+17,Female,32,Singapore,Google,Lillies,Anniversary
+18,Male,42,Singapore,Google,Violets,Opening Ceremony
+19,Female,28,Singapore,Social Network,Carnation,Birthday
+20,Female,46,Singapore,Google,Gift Set 1,Funeral
+21,Male,36,US,Google,Daffodil,Birth
+22,Female,21,Philippines,Social Media,Peonies,Graduation
+23,Female,38,Singapore,Google,Gift Set 2,Anniversary
+24,Male,43,Russia,Google,Baby Breaths,Opening Ceremony
+25,Female,26,US,Social Network,Iris,Graduation
+26,Female,29,Singapore,Google,Roses,No reason
+27,Male,49,Singapore,Google,Hydrangea,Anniversary
+28,Female,23,Philippines,Social Media,Tulip,Birthday
+29,Female,33,Singapore,Google,Lillies,Anniversary
+30,Male,44,Singapore,Google,Violets,Opening Ceremony
+31,Female,25,Mexico,Social Network,Carnation,Birthday
+32,Female,47,Singapore,Google,Gift Set 1,Funeral
+33,Male,37,Singapore,Google,Daffodil,Birth
+34,Female,19,Singapore,Social Media,Peonies,Graduation
+35,Female,30,Philippines,Google,Gift Set 2,Anniversary
+36,Male,40,Singapore,Google,Baby Breaths,Opening Ceremony
+37,Female,22,Russia,Social Network,Iris,Graduation
+38,Female,34,Singapore,Google,Roses,No reason
+39,Male,51,Singapore,Google,Hydrangea,Anniversary
+40,Female,24,US,Social Media,Tulip,Birthday
+41,Female,36,Philippines,Google,Lillies,Anniversary
+42,Male,41,Singapore,Google,Violets,Opening Ceremony
+43,Female,23,Philippines,Social Network,Carnation,Birthday
+44,Female,48,Singapore,Google,Gift Set 1,Funeral
+45,Male,38,Singapore,Google,Daffodil,Birth
+46,Female,20,US,Social Media,Peonies,Graduation
+47,Female,31,Philippines,Google,Gift Set 2,Anniversary
+48,Male,45,Singapore,Google,Baby Breaths,Opening Ceremony
+49,Female,26,Russia,Social Network,Iris,Graduation
+50,Female,28,US,Google,Roses,No reason
+51,Male,30,Singapore,Google,Tulip,Anniversary
+52,Female,40,US,Google,Lillies,Graduation
+53,Male,25,Singapore,Google,Hydrangea,Birthday
+54,Female,35,Philippines,Social Media,Peonies,Anniversary
+55,Female,45,Russia,Social Network,Carnation,Opening Ceremony
+56,Male,32,Singapore,Google,Gift Set 1,Funeral
+57,Female,28,Singapore,Social Media,Daffodil,Birth
+58,Male,50,US,Google,Iris,Graduation
+59,Female,22,Philippines,Google,Roses,No reason
+60,Female,36,Singapore,Social Network,Hydrangea,Anniversary
+61,Male,42,US,Google,Tulip,Birthday
+62,Female,27,Singapore,Social Media,Lillies,Anniversary
+63,Female,33,Philippines,Google,Violets,Opening Ceremony
+64,Male,48,Singapore,Google,Carnation,Birthday
+65,Female,31,Singapore,Social Network,Gift Set 1,Funeral
+66,Female,25,Russia,Social Media,Daffodil,Birth
+67,Male,39,Philippines,Google,Peonies,Graduation
+68,Female,21,Singapore,Social Network,Gift Set 2,Anniversary
+69,Male,45,Singapore,Google,Baby Breaths,Opening Ceremony
+70,Female,29,US,Google,Iris,Graduation
+71,Female,23,Singapore,Social Media,Roses,No reason
+72,Male,37,Philippines,Google,Hydrangea,Anniversary
+73,Female,22,US,Social Network,Tulip,Birthday
+74,Female,34,Singapore,Google,Lillies,Anniversary
+75,Male,46,Russia,Google,Violets,Opening Ceremony
+76,Female,20,Singapore,Social Media,Carnation,Birthday
+77,Female,38,Philippines,Google,Gift Set 1,Funeral
+78,Male,24,US,Google,Daffodil,Birth
+79,Female,30,Singapore,Social Network,Peonies,Graduation
+80,Female,26,Russia,Google,Gift Set 2,Anniversary
+81,Female,32,US,Google,Roses,Anniversary
+82,Male,48,Singapore,Google,Hydrangea,Opening Ceremony
+83,Female,25,Philippines,Social Media,Tulip,Birthday
+84,Female,35,Singapore,Social Network,Carnation,Graduation
+85,Male,40,Russia,Google,Gift Set 1,Funeral
+86,Female,27,Singapore,Social Media,Daffodil,Birth
+87,Female,33,Philippines,Google,Peonies,Anniversary
+88,Male,46,Singapore,Google,Iris,Graduation
+89,Female,21,Singapore,Social Network,Lillies,Anniversary
+90,Female,36,US,Google,Violets,Opening Ceremony
+91,Male,42,Singapore,Google,Baby Breaths,Birthday
+92,Female,28,Singapore,Social Media,Iris,Graduation
+93,Female,34,Philippines,Google,Gift Set 2,Anniversary
+94,Male,50,Singapore,Google,Baby Breaths,Opening Ceremony
+95,Female,29,US,Social Network,Roses,No reason
+96,Female,23,Philippines,Social Media,Tulip,Birthday
+97,Male,39,Singapore,Google,Lillies,Anniversary
+98,Female,22,Singapore,Social Network,Violets,Opening Ceremony
+99,Male,47,US,Google,Carnation,Birthday
+100,Female,30,Singapore,Google,Gift Set 1,Funeral
+101,Female,24,Philippines,Social Media,Daffodil,Birth
+102,Male,41,Singapore,Google,Peonies,Graduation
+103,Female,26,Russia,Social Network,Iris,Graduation
+104,Female,31,US,Google,Roses,No reason
+105,Male,45,Singapore,Social Media,Hydrangea,Anniversary
+106,Female,20,Singapore,Google,Tulip,Birthday
+107,Female,37,Philippines,Social Network,Lillies,Anniversary
+108,Male,49,Singapore,Google,Violets,Opening Ceremony
+109,Female,22,US,Social Media,Carnation,Birthday
+110,Female,38,Singapore,Google,Gift Set 1,Funeral
+111,Male,20,Singapore,Funeral,Carnation,Google
+112,Female,50,US,Birth,Baby Breaths,Social Media
