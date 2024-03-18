@@ -12,4 +12,4 @@
 - Characteristics of KNN 
     - no training necessary (great for small datasets like the DBTT one)
     - very useful for user based collaborative filtering
-    - issue might arise at calability, esp when the network gets rlly big, but not much of an issue with small datasets
+    - issue might arise at scalability, esp when the network gets rlly big, but not much of an issue with small datasets
