@@ -1,7 +1,6 @@
-# DBTT_personal
-- my attempt to create a basic recommender model for my digital transformation project
+# DBTT_overall
 
-# Algorithms I learnt during this period 
+# Algorithms used
 
 - K nearest neighbours algorithm (KNN)
     KNN algo mianly relies on a distance metric (Euclidian distance in this case) to measure the similarity between isntances in the feature space
