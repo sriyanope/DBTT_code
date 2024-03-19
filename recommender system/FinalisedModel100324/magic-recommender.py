@@ -8,7 +8,7 @@ STEP 1: Loading and preprocess the dummy data
 - Source of proportions from dummy data: https://www.similarweb.com/website/xpressflower.com/#geography
 - Using one-hot encoding to convert categorical variables such as Gender, Location, Referal Source, Item Bought etc etc into binary values - essential for the future steps
 '''
-data = pd.read_csv('DBTT_personal/datasets/DBTT xpressflower dummy data.csv')
+data = pd.read_csv('../datasets/DBTT xpressflower dummy data.csv')
 data_encoded = pd.get_dummies(data, columns=['Gender', 'Location', 'Referral Source', 'Item bought', 'Purpose'])
 
 
@@ -118,8 +118,8 @@ user_data = pd.DataFrame([{
     **additional_info
 }])
 
-data = pd.read_csv('DBTT_personal/datasets/DBTT xpressflower dummy data.csv')
+data = pd.read_csv('../datasets/DBTT xpressflower dummy data.csv')
 data = pd.concat([data, user_data], ignore_index=True)
-data.to_csv('DBTT_personal/datasets/DBTT xpressflower dummy data.csv', index=False)
+data.to_csv('../datasets/DBTT xpressflower dummy data.csv', index=False)
 
 print("Thank you for your purchase! Your information has been added to our database.")
