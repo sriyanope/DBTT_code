@@ -12,3 +12,17 @@
     - no training necessary (great for small datasets like the DBTT one)
     - very useful for user based collaborative filtering
     - issue might arise at scalability, esp when the network gets rlly big, but not much of an issue with small datasets
+
+# CV model for flower 
+sequence of actions 
+1. Loading up the flowers dataset 
+2. Preprocessing 
+    - converting the pictures into number arrays 
+    - data augmentation (filling in data with whatever dataset we have)
+3. Sequential CNN model (Keras)
+    - training 
+    - test 
+    - validation dataset 
+    - going to create a web app for it
+
+youtube tutorial link: https://www.youtube.com/watch?v=h6TJiGrYINk
