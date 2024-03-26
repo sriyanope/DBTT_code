@@ -26,3 +26,14 @@ sequence of actions
     - going to create a web app for it (did not create in this scenario as we will be integrating this code with our arduino uno, not on a web app)
 
 for the CV code, we referenced this youtube tutorial link (hopefully this is ok for attribution) : https://www.youtube.com/watch?v=h6TJiGrYINk
+
+# More info about the Sequential CNN model 
+we are using a sequential CNN model, the layer are organized in a sequential manner, and the layers that are usually found in a neural network at layered on on top of one another. each layer mainly performs specific operations. 
+
+the convolutional layers mainly apply filters ot the input data to detect feauters like the sepal length, color of the petals etc. 
+
+there are also some thigns involved such as activation function, pooling layers etc 
+
+the fully connected layers at the end perform the classification of the photos into various classes, and thats why we are using Keras for that. the algorithm we are using is the stochastic gradient descent algorithm or Adam in short
+
+to penalise the algo for overfitting, we are using L2 regularisation
