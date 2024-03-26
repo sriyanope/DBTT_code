@@ -25,4 +25,4 @@ sequence of actions
     - validation dataset 
     - going to create a web app for it (did not create in this scenario as we will be integrating this code with our arduino uno, not on a web app)
 
-youtube tutorial link: https://www.youtube.com/watch?v=h6TJiGrYINk
+for the CV code, we referenced this youtube tutorial link (hopefully this is ok for attribution) : https://www.youtube.com/watch?v=h6TJiGrYINk
